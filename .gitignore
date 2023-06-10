@@ -1,0 +1,6 @@
+Include/
+Lib/
+QRcode_output/
+Scripts/
+share/
+pyvenv.cfg
